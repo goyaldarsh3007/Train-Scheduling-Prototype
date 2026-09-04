@@ -1,0 +1,13 @@
+node_id,node_type,name
+N001,STATION,Ludhiana
+N002,JUNCTION,Khanna
+N003,STATION,Ambala
+N004,STATION,Chandigarh
+N005,JUNCTION,Sirhind
+N006,STATION,Rajpura
+N007,STATION,Patiala
+N008,STATION,Kalka
+N009,JUNCTION,Doraha
+N010,STATION,Panipat
+N011,JUNCTION,Samalkha
+N012,STATION,Delhi

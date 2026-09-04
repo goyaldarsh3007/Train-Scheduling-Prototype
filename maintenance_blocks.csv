@@ -1,0 +1,6 @@
+maintenance_id,track_id,track_segment_id,chainage_start_m,chainage_end_m,planned_start,planned_end,duration_hours
+MB001,TR001_01,TS001,0,5000,08:15,10:15,2.0
+MB002,TR002_01,TS003,0,5000,09:20,10:50,1.5
+MB003,TR006_01,TS011,0,5000,09:00,10:00,1.0
+MB004,TR008_01,TS015,0,5000,09:30,11:00,1.5
+MB005,TR013_01,TS025,0,5000,10:00,11:30,1.5
